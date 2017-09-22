@@ -1,0 +1,11 @@
+stud2|Alvin|Lee|U1611110F|M|Singaporean|83123456|alee032@e.ntu.edu.sg|31/03/2017 20:00|31/03/2017 23:00|3
+stud1|Htet|Naing|U1620738G|M|Myanmar|96206439|eeexort.invoker@gmail.com|01/04/2017 12:00|02/04/2017 13:00|3
+stud5|Yvette|Kim|U1673842F|F|Singaporean|83373773|yvette@hotmail.com|02/04/2017 10:00|02/04/2017 10:00|3
+stud4|Bryan|Liu|U1628810A|M|Singaporean|83939933|bryanliu@gmail.com|06/04/2017 12:00|09/04/2017 13:00|3
+stud6|Yan Jun|Lim|U1622103D|M|Singaporean|833393|alvin|11/11/1111 11:11|22/10/2223 22:22|3
+stud7|Hello|World|U1637281B|M|Singaporean|83664332|fff|11/11/1111 11:11|22/10/2223 22:22|3
+stud8|Jerrold|Seet|U1628193D|M|Malaysian|83928383|jerrold@gmail.com|20/03/2017 10:00|05/04/2017 11:00|3
+stud9|Wee|Kiat|U1612345F|M|Singaporean|83930292|weekiat@gmail.com|22/04/2017 11:00|24/04/2017 11:00|3
+stud10|Mark|Lee|U1648493D|M|Singaporean|83932222|mark@hotmail.com|22/11/2017 11:11|23/11/2017 22:00|3
+stud3|Toni|Tan|U1522222E|M|Singaporean|833939|ylim085@e.ntu.edu.sg|06/04/2017 11:00|06/04/2017 18:00|3
+stud33|Toni|Lee|stud33|M|Singaporean|8392039|d|11/11/1111 11:11|22/10/2223 22:22|3
