@@ -14,7 +14,18 @@ Main objective:
 * Gain familiarity with using Java as an OO programming language
 * Work collaboratively as a group to achieve a common goal
 
-
 Refer to `Project Final Report.pdf` for more details.
 
 For the `project demonstration video` : https://youtu.be/l5BMhGPDBAA
+
+## Knowledge Accquired includes: 
+
+1. Object-Oriented Model
+2. Classes & Objects
+3. Inheritance
+4. Polymorphism
+5. UML Diagram - Class Diagram
+6. UML Diagram - Sequence Diagram
+7. Building OO Application
+8. Design Principles
+9. OO in C++
