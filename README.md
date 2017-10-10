@@ -1,8 +1,11 @@
 # CZ2002 : Object Oriented Design and Programming
 ## Learning Outcome
 
+### First Half
 * Understand and articulate Object-Oriented (OO) Methodology and Concepts
 * Develop OO program using OO Languages on `Java` and `C++`
+
+### Second Half
 * Implement a OO design using OO Languages on `Java` and `C++`
 * Use OO **design principles** to design a program
 
@@ -20,6 +23,7 @@ For the `project demonstration video` : https://youtu.be/l5BMhGPDBAA
 
 ## Knowledge Accquired includes: 
 
+### First Half
 1. Object-Oriented Model
 
 2. Classes & Objects
@@ -28,12 +32,13 @@ For the `project demonstration video` : https://youtu.be/l5BMhGPDBAA
 
 4. Polymorphism
 
-5. UML Diagram - Class Diagram
+### Second Half
+1. UML Diagram - Class Diagram
 
-6. UML Diagram - Sequence Diagram
+2. UML Diagram - Sequence Diagram
 
-7. Building OO Application
+3. Building OO Application
 
-8. Design Principles
+4. Design Principles
 
-9. OO in C++
+5. OO in C++
