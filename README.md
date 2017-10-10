@@ -17,6 +17,8 @@ Main objective:
 * Gain familiarity with using Java as an OO programming language
 * Work collaboratively as a group to achieve a common goal
 
+Programming Language Used: ``Java``
+
 Refer to `Project Final Report.pdf` for more details.
 
 For the `project demonstration video` : https://youtu.be/l5BMhGPDBAA
