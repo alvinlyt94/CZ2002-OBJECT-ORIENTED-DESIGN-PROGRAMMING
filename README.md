@@ -11,7 +11,7 @@
 
 ## Coursework Group Project - Building an OO Application
 
-Main objective:
+### Building an OO Application
 * Apply the OO concepts I have learnt in the course
 * Model, design and develop an OO application
 * Gain familiarity with using Java as an OO programming language
