@@ -23,7 +23,7 @@ For the `project demonstration video` : https://youtu.be/l5BMhGPDBAA
 
 Programming Language Used: ``Java``
 
-## Knowledge Accquired includes: 
+## Knowledge Acquired includes: 
 
 ### First Half
 1. Object-Oriented Model
